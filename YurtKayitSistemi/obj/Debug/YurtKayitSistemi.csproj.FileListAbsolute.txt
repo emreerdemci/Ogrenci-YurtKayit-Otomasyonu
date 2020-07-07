@@ -1,0 +1,41 @@
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirİstatistik.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+c:\users\emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmNotEkle.resources
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrenciRapor.resources
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\RdlCompile.cache
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\RdlCompile.compiled
+C:\Users\Emre\documents\visual studio 2015\Projects\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirRapor.resources
+E:\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+E:\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+E:\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
